@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Soham Desai</h1>
+![Header](./github-header-banner.png)
 <h3 align="center">Software Engineering Student at Seneca Polytechnic</h3>
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FsdW40OGJjY3F5dmcwam4wemp1eWNzd3E1bnJoazQ1ZjljNnJkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Coding GIF" width="350"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sohamdesai11&label=Profile%20views&color=0e75b6&style=flat-square" alt="sohamdesai11" />
