@@ -1,8 +1,14 @@
-![Header](./github-header-banner.png)
-<h3 align="center">Software Engineering Student at Seneca Polytechnic</h3>
-
 
 <p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/68d077237103615.68f9ecc1d71b8.gif" 
+       alt="Banner GIF" 
+       width="100%" />
+</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&width=550&lines=Hi+%F0%9F%91%8B%2C+I+am+Soham+Desai;SWE+Student+%40Seneca+Polytechnic;React+%E2%80%A2+Flask+%E2%80%A2+Django+%E2%80%A2+Python;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sohamdesai11&label=Profile%20views&color=0e75b6&style=flat-square" alt="sohamdesai11" />
 </p>
 
@@ -34,15 +40,19 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sohamdesai11&show_icons=true&theme=tokyonight" alt="Soham's Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamdesai11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamdesai11&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
