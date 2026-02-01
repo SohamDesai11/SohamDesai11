@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **[MTG Card Scanner](https://github.com/Cody935/MagicCardScanning)**
 - 🌱 I’m currently learning **Machine Learning, Full-Stack Development, and Computer Vision**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sohamdesai11.github.io/SohamPortfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sohamdesai.vercel.app/)**
 - 💬 Ask me about **React, Django, Flask**
 - 📫 How to reach me: **sohamdesai20122@gmail.com**
 - 📄 Check out my **[Resume](https://docs.google.com/document/d/1LvG5nuQxhPgBw8J5n3Kfg2lnohnbbgLrvqVNrNdI6m8/edit?usp=sharing)**
